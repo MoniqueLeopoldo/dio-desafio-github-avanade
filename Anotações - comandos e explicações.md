@@ -54,8 +54,8 @@
 
 **“git status” mostrar o status dos arquivos que estão dentro dele.**
 
-**“git add” iniciar o versionamento (adiciona o arquivo para ser comitado.), alterou o arquivo para status stargign.**
-
+**“git add .” iniciar o versionamento (adiciona o arquivo para ser comitado.), alterou o arquivo para status stargign.**
+ 
 **“git add \*” iniciar o versionamento (adiciona o arquivo para ser comitado.), alterou todos os arquivos (que estavam na área de trabalho) para status stargign. **
 
 **“git add/rm” para mover o arquivo para untraked.**
