@@ -127,3 +127,5 @@
 **Verificando o repositório oculto “ls –a”:**
 
 ![img](https://lh5.googleusercontent.com/caRtLoOwry4ddRkMX9oLIcNIBV95z9vB65u_YVovewMhe59c-tMNk8W8n-3_JoSfVFV0GYRRf8KIjL3VhamRT_N4zzOlX3RgupY5X2pFXtOL7MOKm7XexbyAqvbhcDZNFtmbSo_m)
+
+** Passos de envio... 1- git add . ou -a // 2- git commit -m (para criar arquivo com comentário) // 3- git push origin main // 
